@@ -15,7 +15,7 @@ This project allows users to upload files via a web interface, which are then st
 
 ```sh
 git clone https://github.com/Jeet18t/CloudPic.git
-cd 
+cd CloudPic
 ```
 
 ### 2. Install dependencies
