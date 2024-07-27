@@ -14,8 +14,8 @@ This project allows users to upload files via a web interface, which are then st
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/jChauhan18/img-hosting-mw.git
-cd img-hosting-mw
+git clone https://github.com/Jeet18t/CloudPic.git
+cd 
 ```
 
 ### 2. Install dependencies
